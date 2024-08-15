@@ -14,7 +14,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'generate-uml=uml-generator.main:main',
+            'generate-uml=uml_generator.main:main',
         ],
     },
     install_requires=[],
@@ -24,7 +24,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Siddharth Verma",
     author_email="siddharthverma.er.cse@gmail.com",
-    url="https://github.com/siddharthverma-1607/uml-class-diagram-generator.git ", 
+    url="https://github.com/siddharthverma-1607/uml-class-diagram-generator.git", 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
