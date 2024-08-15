@@ -1,6 +1,7 @@
 # UML Class Diagram Generator
 
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-yellow)
+[![Downloads](https://static.pepy.tech/badge/uml-class-diagram-generator)](https://pepy.tech/project/uml-class-diagram-generator)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
